@@ -1,0 +1,4 @@
+- name: Google
+  url: 'http://google.com'
+- name: Xero
+  url: 'http://xero.com'
